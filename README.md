@@ -1,4 +1,4 @@
-# 14 Model-View-Controller (MVC) Blog
+# Model-View-Controller (MVC) Blog
 
 ## Descrption
 
